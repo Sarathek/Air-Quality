@@ -52,6 +52,7 @@ function App() {
             <option value="Los Angeles">Los Angeles</option>
             <option value="Moscow">Moscow</option>
             <option value="Paris">Paris</option>
+            <option value="Kochi">Kochi</option>
             <option value="Venice">Venice</option>
             <option value="others">Others</option>
           </select>
